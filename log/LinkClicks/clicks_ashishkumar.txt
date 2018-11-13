@@ -1,0 +1,4 @@
+30-10-18 11:22	::1	http://localhost/index.php  -->  http://localhost/index.php
+30-10-18 11:22	::1	http://localhost/index.php  -->  http://localhost/quiz.php
+30-10-18 11:22	::1	http://localhost/quiz.php  -->  http://localhost/ytube.php
+30-10-18 11:22	::1	http://localhost/index.php  -->  http://localhost/index.php#
